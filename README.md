@@ -1,5 +1,6 @@
 # CDL_Recall
-This is the implementation of the paper "Collaborative Deep Learning for Recommender Systems". Compared to the original code, we added the recall indicator.
+This is the implementation of the paper "Collaborative Deep Learning for Recommender Systems". Compared to the original code, I added the recall indicator.
+
 Python (Tensorflow) Implementation
 
 Dataset : politic_old and politic_new (legislative roll-call dataset)
